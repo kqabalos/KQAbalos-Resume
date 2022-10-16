@@ -1,0 +1,20 @@
+h1 {
+  font-family: "Papyrus", fantasy;
+}
+p.box {
+  font-family: "Monaco", monospace;
+  border: 2px solid pink;
+  border-radius: 12px;
+  padding: 20px;
+}
+h2 {
+  color: white;
+  background: pink;
+}
+ul {
+  list-style-type: square;
+}
+li.ability {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
