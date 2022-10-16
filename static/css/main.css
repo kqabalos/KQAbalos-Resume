@@ -12,6 +12,7 @@ h3 {
   font-size: 20px;
   margin-top: 10px;
   margin-bottom: 10px;
+  font-family: Helvetica;
 }
 h2 {
   color: white;
@@ -19,15 +20,16 @@ h2 {
   font-size: 2em;
   margin-top: 20px;
   margin-bottom: 15px;
+  font-family: copperplate;
 }
 ul.university {
   font-size: 14px;
 }
 p.contact {
   margin-top: 0px;
-  margin-bottom: 0px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1em;
+  margin-bottom: 5px;
+  font-family: monospace;
+  font-size: 14px;
 }
 ul {
   list-style-type: square;
